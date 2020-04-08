@@ -1,0 +1,11 @@
+.gray {
+  color: #ced4da;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+main {
+  margin: 40px 5px;
+}

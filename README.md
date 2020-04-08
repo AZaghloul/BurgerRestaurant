@@ -1,2 +1,0 @@
-# BurgerRestaurant
-Created with CodeSandbox
